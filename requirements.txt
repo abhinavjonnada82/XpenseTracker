@@ -1,0 +1,4 @@
+Flask
+flask-oidc
+okta
+pyrebase
